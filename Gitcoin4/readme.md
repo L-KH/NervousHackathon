@@ -20,4 +20,4 @@ https://explorer.nervos.org/aggron/transaction/0x3040991613e46db7f98fa5220feb48d
 
 ### The SUDT ID from the console output after executing the deposit script (in text format).
 
-Your account id: 215
+Your account id: 219
